@@ -7,7 +7,7 @@ Les vents de magie qui parcourent le vieux monde sont connus sous les noms suiva
 - **Chamon**, le vent doré, domaine du Métal
 - **Ghyran**, le vent de jade, domaine de la Vie
 - **Azyr**, le vent bleu, domaine des Cieux
-- **[[content/Monde/Magies/Ulgu/Description| Ulgu]]**, le vent gris, domaine des Ombres
+- **[[content/Monde/Magies/Ulgu/Description|Ulgu]]**, le vent gris, domaine des Ombres
 - **Shyish**, le vent d'améthyste, domaine de la Mort
 - **Aqshy**, le vent rouge, domaine du Feu
 - **Ghur**, le vent d'ambre, domaine des Bêtes
