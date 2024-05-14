@@ -1,3 +1,5 @@
+Les règles utilisées dans le cadre de la campagne sont les règles révisées par le complément Winds Of Magic. L'utilisation de la magie est moins contraignante par rapport aux règles du livre de base, mais elle reste toujours aussi dangereuse.
+
 ### Règles d'incantation
 
 Tous les sorts sont construits de la même façon :
@@ -19,6 +21,17 @@ Un **Critique** au test d'incantation provoque une **Incantation Imparfaite Mine
 
 Une **Maladresse** au test d'incantation provoque systématiquement une **Incantation Imparfaite Mineure**.
 
+#### Surincantation
+
+Si un **Test d'Incantation** génère un DR supérieur au NI du sort, le lanceur de sort peut utiliser le DR supplémentaire pour effectuer une **Surincantation**. Ceci permets d'augmenter l'efficacité du sort, mais sous certaines conditions :
+- Surincanter un sort permets d'augmenter sa portée, sa zone d'effet, sa durée ou le nombre de cibles au delà de l'utilisation normale du sort. Si le sort est un *Projectile Magique*, la surincantation permets également d'augmenter ses dégâts.
+	- Un sort d'une portée de "Vous" ne peut cibler que le lanceur de sort.
+	- Il est impossible d'augmenter la portée d'un sort de contact
+	- Il est impossible d'augmenter la durée d'un sort qui n'a aucune durée (ou une durée "Instantanée").
+	- Il est impossible d'augmenter la zone d'effet d'un sort qui n'est pas un sort de zone
+- La [[Table des Surincantations]] permets de voir le coût en DR d'une surincantation et son effet. Vous pouvez "découper" la puissance magique en trop pour choisir plusieurs effets de Surincantation, mais il n'est possible de prendre qu'un seul effet par colonne.
+- Tout DR non utilisé pour la surincantation est perdu.
+
 #### Sorts de contact au combat
 
 Les sorts ayant une portée de **Contact** et utilisée au combat contre une cible non consentante nécessitent un **Test Opposé de Corps à Corps (Bagarre)** (généralement opposé à un test de **Corps à Corps** ou d'**Esquive**) pour toucher la cible une fois le test d'incantation réussi. Dans ce cas, la localisation est déterminée comme pour un combat au corps à corps classique.
@@ -34,18 +47,29 @@ L'ingrédient à utiliser est différent pour chaque sort et son coût doit êtr
 #### Focalisation
 
 Chaque sorcier peut **Focaliser** les vents de magie qu'il maîtrise. Pour la plupart des Personnages, ils ne seront capables de focaliser qu'un seul Vent de Magie pendant toute leur carrière. Les seules exceptions connues à cette règle sont les **Elfes**, qui sont capables d'utiliser plusieurs vents de magie différents (sous certaines conditions). Le fonctionnement est le suivant :
-- Le Sorcier décide du sort qu'il veut lancer **AVANT** de commencer la focalisation
-- Le Sorcier commence sa focalisation et ne peut s'arrêter qu'une fois qu'il a emmagasiné suffisamment d'énergie magique pour lancer le sort.
-	- Concrètement : on effectue un **Test Etendu** de **Focalisation(Couleur)** avec un **DR Cible** égal au **NI** du sort qu'on cherche à lancer
-- Une fois que le Sorcier est prêt, il effectue un **Test d'Incantation** (test de Langue(Magick)) mais **on considère le NI du sort égal à 0**. Autrement dit, il suffit de réussir le test de Langue(Magick) pour lancer le sort
+- Le Sorcier décide du vent qu'il souhaite focaliser. Il n'est pas nécessaire de choisir son sort en avance !
+- Le Sorcier commence sa focalisation avec un un **Test Etendu** de **Focalisation(Couleur)**. Ce test n'a pas de **DR Cible** et le DR du test peut être utilisé pour réduire le **NI** d'un sort d'autant (le sort doit être lancé au Round suivant et le NI ne peut pas être inférieur à 0).
+- Tout DR supérieur à celui nécessaire pour le lancement du sort est perdu une fois le sort lancé. Il n'est *pas possible* d'utiliser la focalisation pour provoquer une **Surincantation** ! Seul le DR du **Test d'Incantation** sera utilisé pour déterminer s'il y a surincantation ou non.
 
 La Focalisation est dangereuse car elle implique de concentrer de l'énergie magique sur le lanceur de sort afin de la libérer de manière contenue en lançant son sort. **Si le test d'incantation échoue**, l'énergie magique se libère violemment et provoque une **Incantation Imparfaite Mineure**.
 
-Si vous obtenez un **Critique** lors d'un test de focalisation, vous pouvez lancer le sort instantanément au prochain tour, peu importe le DR du test étendu (on considère que le DR Cible est atteint). En revanche, à moins de posséder le talent **Harmonisation Aethyrique**, le lanceur de sort subit également une **Incantation Imparfaite Mineure** à cause du violent flux de magie qui vient se canaliser.
-
-Lors d'une focalisation, on obtient une **Maladresse** beaucoup plus facilement qu'avec une incantation ! En plus des résultats **doubles** (99, 88 etc), on considère comme une maladresse tout résultat supérieur à la Compétence Focalisation et finissant par 0 (90, 80 ...). En cas de **Maladresse**, vous subissez une **Incantation Imparfaite Mineure**.
+Si vous obtenez un **Critique** lors d'un test de focalisation, le lanceur de sort obtient un nombre de DR supplémentaire égal à son **bonus de Force Mentale**. En revanche, à moins de posséder le talent **Harmonisation Aethyrique**, le lanceur de sort subit également une **Incantation Imparfaite Mineure** à cause du violent flux de magie qui vient se canaliser. En cas de **Maladresse**, vous subissez une **Incantation Imparfaite Mineure**.
 
 Enfin, si vous êtes **Interrompus**, vous devez réussir un test de **Calme Difficile(-20)** pour maintenir votre concentration. Si le test est raté, vous subissez une **Incantation Imparfaite Mineure** et votre test étendu de focalisation s'arrête, vous forçant à le reprendre depuis le début.
+
+#### Influences corruptrices
+
+Si un Personnage se trouve proche d'une **Influence Corruptrice** et lance un **Test d'Incantation ou un Test de Focalisation**, la manipulation des vents de magie est plus risquée. Dans ce cas, tout test raté déclenche une **Incantation Imparfaite Mineure**. Si le résultat du test devait déjà en provoquer une, il provoque une **Incantation Imparfaite Majeure** à la place.
+
+#### Malepierre
+
+Un lanceur de sort peut utiliser une **Malepierre** pour doubler le DR de ses **Tests d'Incantation et Tests de Focalisation**. En revanche, la Malepierre représente une **Influence Corruptrice**.
+
+La Malepierre a une puissance considérable, mais jamais illimitée ! Les Personnages doivent penser à noter le nombre de DR supplémentaire générés par la Malepierre afin de savoir quand son énergie est complètement vidée. D'une manière générale, **1 gramme de Malepierre** contient l'équivalent de **20 DR** d'énergie magique.
+
+#### Repousser les vents
+
+Le Métal et le Cuir repoussent la plupart des vents à cause des quantités de **Chamon**(Métal) ou **Ghur**(Cuir)qu'ils contiennent. Tous les Lanceurs de sorts qui portent ces équipements sans avoir les talents *Magie des Arcanes* appropriés subissent **-1 DR à tous les Tests d'Incantation et Tests de Focalisation**.
 
 ### Se défendre contre les mages
 
@@ -62,3 +86,5 @@ Vous pouvez tenter de dissiper un sort qui vous prends pour cible ou qui cible u
 Si un sort a un effet durable (malédiction, sort ravageant une zone pendant une longue durée ...), vous pouvez tenter de le dissiper en utilisant votre Action. Dans ce cas, vous devez effectuer un **Test Étendu de Langue(Magick)** avec comme DR Cible le NI du sort que vous cherchez à dissiper.
 
 Si plusieurs lanceurs de sorts tentent de dissiper le même sort, ils ne peuvent s'entraider que s'ils manipulent le même vent de magie. Dans le cas contraire, chaque lanceur de sort effectue son propre test étendu.
+
+Un lanceur de sort qui cherche à dissiper son propre sort le fait avec un bonus de +1 DR à chaque test de Langue(Magick).
