@@ -54,5 +54,28 @@ Les Sorts lancés depuis le Domaine des Ombres le sont de manière furtive, tout
 
 **Composants** : tout objet utilisé pour se cacher ou se dissimuler peut être un composant gris ; cela comprend entre autres le maquillage, les parfums, les foulards, les lunettes, les miroirs et les perruques. Les objets utilisés par des professions versées dans les intrigues, comme les artefacts diplomatiques, les symboles de rang et, l’expression ultime du pouvoir – l’épée – sont utilisés très fréquemment.
 
+#### Sorts de Domaine
+- [[Ailes Grises]]
+- [[Bosquet d'Ombres]]
+- [[Corne d'Andar]]
+- [[Danse du Désespoir]]
+- [[Déconcerter]]
 - [[Destrier D'ombre]]
-- 
+- [[Forme d'Ombre]]
+- [[Horreurs sombres]]
+- [[Illusion]]
+- [[Illusion Majeure]]
+- [[Illusion Rétroactive de Ribauld]]
+- [[Jumeau Maléfique]]
+- [[Linceul d'Invisibilité]]
+- [[Miasme mystifiant]]
+- [[Ombre errante]]
+- [[Ombres étrangleuses]]
+- [[Perte de mémoire]]
+- [[Poches sans fond]]
+- [[Pont d'Ombres]]
+- [[Portail d'Ombre]]
+- [[Puit de Tarnus]]
+- [[Silence]]
+- [[Traître de Tarn]]
+- [[Visage Changeant]]
