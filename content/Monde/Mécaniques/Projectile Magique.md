@@ -1,0 +1,3 @@
+Certains Sorts indiqués *Projectiles magiques*, infligent des **Dégâts** qui suivent tous les mêmes règles. 
+
+Quand un *Projectile magique* est lancé avec succès et qu’il cible un autre Personnage, la Localisation atteinte est déterminée en inversant les dés lancés pour le Test de Langue (Magick). Puis on se réfère au Tableau des Localisations. **Le DR du Test de Langue (Magick) est ajouté aux Dégâts du Sort** et à votre **Bonus de Force Mentale** pour déterminer le total de Dégâts infligés. Ces Dégâts sont **réduits normalement par l’Endurance et les PA de la cible**

@@ -50,9 +50,13 @@ Origines disponibles : Humain
 
 ### Sorts de domaine connus
 
-Les Sorts lancés depuis le Domaine des Ombres le sont de manière furtive, tout comme sont prononcés les mots du *lingua praestantia*, en toute discrétion. N’importe lequel des Sorts de protection que vous lancerez vous enveloppera dans les ombres et dans des volutes de fumée, vous rendant immatériel, permettant même parfois que les lames vous traversent sans vous blesser. De plus, les Sorts lancés depuis le Domaine des Ombres ignorent tous les PA non magiques.
+Les Sorts lancés depuis le Domaine des Ombres le sont de manière furtive, tout comme sont prononcés les mots du *lingua praestantia*, en toute discrétion. N’importe lequel des **Sorts de protection** que vous lancerez vous enveloppera dans les ombres et dans des volutes de fumée, vous rendant **immatériel**, permettant même parfois que les lames vous traversent sans vous blesser. De plus, les Sorts lancés depuis le Domaine des Ombres **ignorent tous les PA non magiques**.
 
 **Composants** : tout objet utilisé pour se cacher ou se dissimuler peut être un composant gris ; cela comprend entre autres le maquillage, les parfums, les foulards, les lunettes, les miroirs et les perruques. Les objets utilisés par des professions versées dans les intrigues, comme les artefacts diplomatiques, les symboles de rang et, l’expression ultime du pouvoir – l’épée – sont utilisés très fréquemment.
+
+Les effets de domaine s'appliquent non seulement aux sorts de domaine (voir la liste ci-dessous) mais également aux Sorts d'Arcanes appris avec ce domaine. Les sorts d'Arcane sont des sorts communs à tous les Domaines de Magie mais donc la manifestation et les effets changent légèrement selon le Domaine utilisé.
+
+Consulter la [[- Liste des sorts d'Arcanes|Liste des sorts d'Arcane]]
 
 #### Sorts de Domaine
 - [[Ailes Grises]]

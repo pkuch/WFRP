@@ -1,0 +1,1 @@
+Lancez 1d10. Si le résultat est supérieur ou égal à l'**Indice** précisé, la créature ne subit pas de dégâts

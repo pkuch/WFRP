@@ -1,5 +1,17 @@
 Les règles utilisées dans le cadre de la campagne sont les règles révisées par le complément Winds Of Magic. L'utilisation de la magie est moins contraignante par rapport aux règles du livre de base, mais elle reste toujours aussi dangereuse.
 
+### Les sorts
+
+#### Sorts utilisables
+
+Tous les utilisateurs de magie ont accès aux sorts de Magie Mineure ainsi qu'aux Sorts d'Arcanes. Les **Sorts de domaines** sont spécifiques au vent de magie utilisé. Ainsi, un sorcier manipulant le vent de métal n'aura pas accès aux sorts du domaine des ombres. Par contre, un sorcier d'ombre et sorcier de métal auront tous deux accès aux sorts d'arcanes, bien que ceux-ci se manifesteront légèrement différemment.
+
+#### Mémoire vs Grimoire
+
+Les Lanceurs de Sorts peuvent mémoriser leurs sorts en dépensant l'expérience indiquée dans les talents *Magie Mineure* ou *Magie des Arcanes* (selon le type de sorts qu'ils veulent apprendre).
+
+Un Lanceur de sorts peut également incanter un sort qu'il n'a pas mémorisé à condition qu'il dispose d'un Grimoire contenant les instructions pour lancer ce sort, et qu'il s'agisse d'un sort de son domaine (ou d'un Sort d'Arcane). Pour ce faire, il doit disposer de ses deux mains libres pour parcourir le grimoire. **Le NI d'un sort non mémorisé lancé depuis un Grimoire est doublé** pour représenter le fait que le lanceur de sort ne maîtrise pas l'incantation nécessaire.
+
 ### Règles d'incantation
 
 Tous les sorts sont construits de la même façon :
@@ -70,6 +82,16 @@ La Malepierre a une puissance considérable, mais jamais illimitée ! Les Person
 #### Repousser les vents
 
 Le Métal et le Cuir repoussent la plupart des vents à cause des quantités de **Chamon**(Métal) ou **Ghur**(Cuir)qu'ils contiennent. Tous les Lanceurs de sorts qui portent ces équipements sans avoir les talents *Magie des Arcanes* appropriés subissent **-1 DR à tous les Tests d'Incantation et Tests de Focalisation**.
+
+### Les Rituels
+
+Les rituels sont des sorts complexes et souvent extrêmement puissants. L'incantation de ces rituels doivent être faits dans un environnement spécifique et en utilisant des ingrédients qui dépendent du rituel. Ils sont très dangereux et nécessitent qu'un sorcier canalise une immense quantité de magie, allant parfois jusqu'à sacrifier une partie de leur être pour accomplir le rituel.
+
+#### Grimoires et rituels
+
+Les Rituels sont parfois transcrits dans des Grimoires (ou des parchemins, tablettes en pierre, etc ...), bien que ce types d'ouvrages soient jalousement gardés par les sorciers qui les ont acquis. Les Rituels sont des procédés complexes, si bien qu'ils ont souvent un grimoire complet dédié aux instructions permettant de le lancer.
+
+Un Lanceur de Sorts peut lancer un rituel provenant d'un grimoire tant que ce dernier utilise un Domaine de Magie qu'il connaît. Afin d'utiliser un grimoire, le Lanceur de Sort doit disposer de ses deux mains libres pour naviguer à travers les pages. Si ce n'est pas le cas, le NI du rituel est **multiplié par Quatre !**
 
 ### Se défendre contre les mages
 

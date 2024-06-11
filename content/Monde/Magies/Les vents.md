@@ -4,7 +4,7 @@ title: Les vents de Magie
 Les vents de magie qui parcourent le vieux monde sont connus sous les noms suivants :
 
 - **Hysh**, le vent blanc, domaine de la Lumière
-- **Chamon**, le vent doré, domaine du Métal
+- **[[Chamon]]**, le vent doré, domaine du Métal
 - **Ghyran**, le vent de jade, domaine de la Vie
 - **Azyr**, le vent bleu, domaine des Cieux
 - **[[Ulgu]]**, le vent gris, domaine des Ombres

@@ -1,0 +1,1 @@
+Lorsque le Sort doit prendre fin, vous pouvez effectuer un Test de Force Mentale pour prolonger la Durée pour +1 Round.
