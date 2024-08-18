@@ -1,3 +1,7 @@
+## Résumé complet de l'histoire
+
+[[The Road So Far]]
+
 ## Dernière Session :
 
 [[2024-08-08]] - La visite chez le notaire
