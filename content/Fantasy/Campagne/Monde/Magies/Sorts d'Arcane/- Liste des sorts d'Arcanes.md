@@ -23,7 +23,7 @@ La liste des sorts d'arcanes connus est la suivante :
 - [[Perturbant]]
 - [[Pont]]
 - [[Poussée]]
-- [[content/Monde/Magies/Sorts d'Arcane/Protection]]
+- [[Protection]]
 - [[Sang corrosif]]
 - [[Souffle]]
 - [[Téléportation]]
