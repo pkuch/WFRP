@@ -1,10 +1,10 @@
 ## Résumé complet de l'histoire
 
-[[The Road So Far]]
+[[The Road So Far]] - Pas encore à jour (jusqu'à [[2024-08-08|la visite chez le notaire]] )
 
 ## Dernière Session :
 
-[[2024-10-02]] - La Schaffenfest
+[[2024-10-31]] - Exploration des égouts
 
 ## Sessions Précédentes
 
@@ -13,3 +13,7 @@
 [[2024-06-19]] - Piège de feu à Weissbruck
 [[2024-07-03]] - Le fantôme dans la forêt
 [[2024-08-08]] - La visite chez le notaire
+[[2024-10-02]] - La Schaffenfest partie 1 : Visite du festival
+[[2024-10-16]] - La Schaffenfest partie 2 : La Zoocopée du Docteur Malthusius
+[[2024-10-24]] - Chasse au gobelin : l'entrée dans les égouts
+[[2024-10-31]] - Exploration des égouts
