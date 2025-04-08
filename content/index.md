@@ -18,7 +18,7 @@ Pour commencer, la section [[Les vents]] permets aux joueurs de se familiariser 
 --------------------------
 
 Récapitulatif de la dernière session :
-[[2024-10-31|Dernière session]]
+[[2024-11-13|Dernière session]]
 
 Index des récap des sessions précédentes :
 [[0 - Index des récap|Notes de session]]

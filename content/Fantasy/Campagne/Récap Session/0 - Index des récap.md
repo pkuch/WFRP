@@ -4,7 +4,7 @@
 
 ## Dernière Session :
 
-[[2024-10-31]] - Exploration des égouts
+[[2024-11-13]] - La chose dans les ténèbres
 
 ## Sessions Précédentes
 
