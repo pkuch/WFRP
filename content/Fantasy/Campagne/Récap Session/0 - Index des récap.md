@@ -4,7 +4,7 @@
 
 ## Dernière Session :
 
-[[2024-11-13]] - La chose dans les ténèbres
+[[2025-04-09]] - L'enquête reprends son cours
 
 ## Sessions Précédentes
 
@@ -17,3 +17,4 @@
 [[2024-10-16]] - La Schaffenfest partie 2 : La Zoocopée du Docteur Malthusius
 [[2024-10-24]] - Chasse au gobelin : l'entrée dans les égouts
 [[2024-10-31]] - Exploration des égouts
+[[2024-11-13]] - La chose dans les ténèbres
