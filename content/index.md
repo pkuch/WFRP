@@ -18,9 +18,12 @@ Pour commencer, la section [[Les vents]] permets aux joueurs de se familiariser 
 --------------------------
 
 Récapitulatif de la dernière session :
-[[2025-04-09|Dernière session]]
+[[2025-10-23|Dernière session]]
 
 Index des récap des sessions précédentes :
 [[0 - Index des récap|Notes de session]]
 
 [[The Road So Far]]
+
+Dernier ajout :
+[[Les Nains]]

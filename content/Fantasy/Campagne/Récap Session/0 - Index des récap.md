@@ -4,7 +4,7 @@
 
 ## Dernière Session :
 
-[[2025-04-09]] - L'enquête reprends son cours
+[[2025-10-23]] - Retrouvailles; Un entrepôt étrange
 
 ## Sessions Précédentes
 
@@ -18,3 +18,4 @@
 [[2024-10-24]] - Chasse au gobelin : l'entrée dans les égouts
 [[2024-10-31]] - Exploration des égouts
 [[2024-11-13]] - La chose dans les ténèbres
+[[2025-04-09]] - L'enquête reprends son cours
