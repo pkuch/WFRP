@@ -14,7 +14,7 @@ Les Sorts du Domaine du Métal impliquent bien souvent la transmutation ou la mo
 **Alchimiste**
 Origines disponibles : Humain
 
-![[gold-wizard.webp]]
+![[public/Fichiers/gold-wizard.webp]]
 
 
 #### Schéma de progression

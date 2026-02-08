@@ -20,28 +20,28 @@ Les personnages se rencontrent et définissent qu'**Ivo** n'utilisent pas la mag
 
 Le groupe est guidé par un pisteur engagé par le Maître Forgeron jusqu'à l'auberge relais la plus proche : l'auberge "La Diligence". Ils y rencontrent notamment *Dame Isolde*, une noble de la Drakwald, qui leur parle avec l'air hautain et le dédain typique de la noblesse qui s'adresse au bas-peuple. La plupart de leurs échanges se fait par l'intermédiaire de *Janna*, sa suivante, ou de *Marie*, son garde du corps. 
 
-![[isolde-von-strudeldorf.webp]]
+![[public/Fichiers/isolde-von-strudeldorf.webp]]
 ***Dame Isolde***, la noble rencontrée par les Personnages
-![[marie-schutz.webp]]
+![[public/Fichiers/marie-schutz.webp]]
 ***Marie***, sa garde du corps
-![[janna-elleiner.webp]]
+![[public/Fichiers/janna-elleiner.webp]]
 ***Janna, la servante***
 
 
 Ils rencontrent également *Philippe Descartes*, un Brétonnien qui leur propose de faire des jeux d'argent (un jeu de cartes).
-![[phillipe-descartes.webp]]
+![[public/Fichiers/phillipe-descartes.webp]]
 ***Philippe Descartes***, le Bretonnien et parieur invétéré.
 
 Les Personnages passent une soirée plutôt agréable à l'Auberge dans laquelle il ne se passe pas d'évènement particulier et se réveillent le lendemain pour prendre la route en direction d'Altdorf. Les cochers, *Gunnar* et *Hultz*, sont introuvables à l'heure du départ, ce qui a tendance à agacer prodigieusement *Isolde* et à mettre de mauvaise humeur la plupart des voyageurs. Les Personnages les retrouvent endormis, en train de cuver difficilement leurs consommations de la veille. Ils décident de les réveiller afin de partir le plus rapidement possible pour éviter de perdre plus de temps que nécessaire.
 
-![[gunnar-and-hultz.webp]]
+![[public/Fichiers/gunnar-and-hultz.webp]]
 ***Gunnar et Hultz*** durant la soirée
 
 Ayant rendu service, les Personnages sont autorisés à voyager gratuitement dans la diligence avec le reste du groupe. En revanche, *Isolde* refuse catégoriquement de voyager DANS la diligence avec les Personnages les plus pauvres (**Ivo** et **Luxarion**), prétendant que c'est indigne de son rang ... "Sans parler de l'odeur et de la crasse ... C'est inadmissible !". Les Personnages voyagent donc sur le toit de la diligence, ce qui n'est malheureusement pas rare dans le Reikland. La diligence part donc, avec à son bord les personnes suivantes :
 - Le groupe de Personnages : [[Bill Big Biddle|Bill]], [[Luxarion Draij|Luxarion]] et [[Ivo Hartslieb|Ivo]]
 - **Dame Isolde** accompagnée de sa suite, composée de **Janna** (sa servante) et **Marie** (sa garde du corps)
 - **Ernst**, un médecin qui étudiait un livre dans l'auberge le soir précédent, avec qui les personnages n'ont que très peu discuté
-![[ernst-heidlemann.webp]]
+![[public/Fichiers/ernst-heidlemann.webp]]
 - **Philippe**, le Bretonnien et joueur invétéré avec qui [[Bill Big Biddle|Bill]] a joué la veille
 - **Gunnar et Hultz**, les deux cochers, qui partent avec une gueule de bois monumentale.
 L'état des deux cochers va fortement ralentir le groupe puisqu'ils vont essayer de conduire la diligence de façon à limiter leur nausée ainsi que leur mal de crâne. Au bout de quelques kilomètres, la pluie s'invite en tant que voyageuse inattendue, trempant alors les Personnages qui voyagent sur le toit de la diligence (sauf [[Ivo Hartslieb|Ivo]], qui semble rester au sec pour une raison inconnue).
@@ -49,30 +49,30 @@ L'état des deux cochers va fortement ralentir le groupe puisqu'ils vont essayer
 ## Du sang sur la route
 
 Après une demi-journée de voyage, les Personnages font une rencontre sur la route : une silhouette humaine est voûtée sur elle même et semble être en train de se nourrir. Lorsqu'elle entend les Personnages s'approcher, elle se retourne pour dévoiler le visage mutilé d'un mutant dans la bouche duquel pendait un bras, probablement arraché du cadavre qui se trouvait derrière lui. Bien que difficilement reconnaissable à cause de la chair en décomposition qui se détachait des os de son visage, la silhouette et le faciès de cette créature permirent à [[Bill Big Biddle|Bill]] de reconnaître une ancienne connaissance, **Rolf Hurtsis**, rencontrée dans l'une des nombreuses ruelles boueuses de l'empire avant qu'il ne commence sa profession actuelle.
-![[rolf-hurtsis2.webp]]
+![[public/Fichiers/rolf-hurtsis2.webp]]
 *Rolf Hurtsis en plein repas*
 
 La chose attaque rapidement les voyageurs, qui défendent leur vie avec brio ! Le combat est court, violent, et le mutant meurt rapidement. L'ancienne connaissance de [[Bill Big Biddle|Bill]] est mort, sombre rappel de la vitesse à laquelle la vie des humains de l'Empire peut basculer ...
 
 Les Personnages fouillent ensuite le corps du cocher de la compagnie des 4 saisons, qui était en train de se faire dévorer par le mutant et dont on peut reconnaître l'employeur à l'écusson brodé sur ses vêtements de fonction.
 
-![[four-seasons.webp]]
+![[public/Fichiers/four-seasons.webp]]
 *Ecusson de la compagnie des Quatre Saisons*
 
 Il ne faut que peu de temps pour que les Personnages entendent un cri bestial provenant d'un peu plus loin sur la route : il pouvait s'agir d'un animal en souffrance ... Ou d'une créature bien plus perturbante !
 
 Et pour cause : quelques mètres plus loin sur le sentier se trouve une diligence de la compagnie des Quatre Saisons détruite, autour de laquelle s'affairent cinq mutants ! L'un d'entre eux, un humain à tête de chien, semble être la source du cri bestial entendu quelques minutes plus tôt !
-![[mutants.webp]]
+![[public/Fichiers/mutants.webp]]
 *Le groupe d'horribles mutants rencontrés sur la route*
 
 L'un des mutants semble sortir du lot comme étant le chef du groupe. Il est reconnaissable à son charisme relativement important pour un mutant, sa peau écailleuse ainsi que l'arbalète qu'il porte accrochée sur son dos.
-![[knud-cratinx.webp]]
+![[public/Fichiers/knud-cratinx.webp]]
 
 Le groupe se trouve contraint de combattre les mutants, mais le combat est très vite expédié. Les mutants meurent un par un sous les coups puissants des Personnages, qui les tuent sans grande difficulté, ne leur laissant même pas l'occasion de s'enfuir. Ils fouillent ensuite les restes des pauvres hères de la diligence ainsi que les cadavres des mutants et finissent par trouver quelque chose d'étrange sur le bord de la route : un cadavre dont l'apparence est en tout point semblable à celle d'[[Ivo Hartslieb|Ivo]] ! Ils y trouvent également un document attestant de l'identité du sosie ainsi que de l'héritage qu'il doit recevoir dans la ville de [[Bögenhafen]] (cf [[Kastor Lieberung|les documents]]). [[Luxarion Draij|Luxarion]] propose de cacher le corps dans la forêt car il pense que la ressemblance avec [[Ivo Hartslieb|Ivo]] serait suspecte et très mal vue si quelqu'un d'autre venait à trouver le cadavre. Les Personnages déplacent donc le cadavre un peu plus loin, hors de vue de la route, en espérant que des bêtes sauvages (ou des mutants) viennent le dévorer plus tard et effacent ainsi les preuves.
 
 Les Personnages croisent ensuite des *Patrouilleurs routiers* sur le chemin qui leur demande des informations sur l'attaque de mutants dont ils ont été victimes. Les patrouilleurs sont suspicieux, mais pas suffisamment pour les arrêter. Ils leur demandent de donner les infos dans la prochaine auberge relais, qui leur sers de base et dans laquelle ils interrogeront les Personnages. Les Personnages donnent toutes les infos qu'ils peuvent sur l'attaque et les combats qu'ils ont mené, en omettant bien évidemment l'épisode du sosie d'[[Ivo Hartslieb|Ivo]] déposé dans la forêt. Satisfaits, les patrouilleurs routiers laissent la diligence repartir.
 
-![[roadwardens.webp]]
+![[public/Fichiers/roadwardens.webp]]
 *Un groupe de patrouilleurs routiers en plein travail*
 
 Les Personnages n'ayant pas pensé à faire le plein de provision dorment donc à l'Auberge relais et repartent à pied le lendemain.
@@ -82,12 +82,12 @@ Les Personnages n'ayant pas pensé à faire le plein de provision dorment donc �
 Après une nuit bien méritée dans l'Auberge Relais, les Personnages repartent en direction d'Altdorf. Après quelques heures de marche, ils tombent nez à nez avec la diligence avec laquelle ils voyageaient ! Cette dernière est arrêtée car l'une des roues s'est délogée de l'essieu, obligeant le véhicule à s'arrêter le temps d'effectuer des réparations de fortune. Le groupe aide à la réparation de la diligence et fait ensuite route avec eux en direction d'**Altdorf**, capitale de l'Empire et du Reikland.
 
 En arrivant sur la place principale, le groupe assiste ébahi au passage de l'Empereur lui même dans les rues, ainsi que des chevaliers qui l'accompagnent en tenue d'apparat
-![[procession.webp]]
+![[public/Fichiers/procession.webp]]
 
 A grand renfort d'applaudissement et d'acclamations, cet évènement est particulièrement impressionnant pour les Personnages qui ne sont jamais restés bien longtemps à Altdorf, et il leur a permis de voir l'Empereur lui même, en chair et en os. Une fois le passage de l'empereur terminé, la foule se calme et finit par se disperser.
 
 Le groupe rencontre sur la place un vieil ami de [[Bill Big Biddle|Bill]], du temps où il a voyagé à travers le Reikland en bateau : **Josef Quartjin**.
-![[josef-quartjin.webp]]
+![[public/Fichiers/josef-quartjin.webp]]
 
 Josef est immédiatement identifié comme "le bon copain", celui avec qui on boit un coup et qui connaît tout le monde ! Il est également propriétaire d'une embarcation, le **Bérébili**, et propose aux Personnages de le retrouver dans l'**Auberge du Batelier**, un établissement bien connu des Riverains puisqu'on y trouve la plupart des travailleurs du port ainsi que des navigateurs de passage à Altdorf.
 
@@ -112,17 +112,17 @@ Quelques secondes après qu'il aie fini d'hurler ses augures de fin du monde, la
 Résumé de session : [[2024-06-05]]
 
 Les Personnages décident ensuite d'aller sur la place du marché en fin de journée afin de dépenser leur argent durement gagné pour récupérer de l'équipement. Il y font la rencontre de **Brokur Zindrisson**, un forgeron Nain qui s'est spécialisé dans la forge d'un type d'armes spécifique qu'il a baptisé "les *Fleurs de Fer*". Voyant que les Personnages ont l'air d'être prêts à accepter tout type de travail (notamment vu le comportement de [[Luxarion Draij|Luxarion]]), il leur explique son problème et leur propose un marché 
-![[brokur-zindrisson.webp]]
+![[public/Fichiers/brokur-zindrisson.webp]]
 **Brokur** est la cible d'une rancune ancienne contre son clan, qui ne peut être réglée que par sa mort. Cette rancune a été contractée auprès d'un lointain ancêtre et le Nain estime qu'il n'a rien à voir là dedans et qu'il est donc injuste qu'il meure pour l'erreur d'un de ses ancêtres lointains. Il demande donc aux personnages de l'aider à faire croire à sa mort afin de s'échapper de son destin. Le groupe ayant accepté, il leur a offert a chacun une "Fleur de Fer", leur permettant ainsi d'avoir un avant-goût de ses armes exceptionnelles. Les Personnages n'ayant pour le moment pas les moyens de l'aider, ils ont promis de chercher une solution lors de la **Schaffenfest** à [[Bögenhafen]].
 
 Les Personnages ont ensuite rejoint **Josef** à l'*Auberge du Batelier* pour y passer la soirée. Josef leur paye à boire et la soirée se passe bien jusqu'à ce qu'un Spadassin rentre dans l'auberge, visiblement pour chercher les problèmes. Il s'installe d'abord au fond de l'auberge, cherchant des yeux une pauvre cible avec laquelle il pourrait combattre, alors qu'entrent deux dandys accompagnés de leurs gardes du corps
-![[jacob-and-georg.webp]]
+![[public/Fichiers/jacob-and-georg.webp]]
 *Les deux nobles venus se moquer du peuple dans l'Auberge*
-![[bodyguards.webp]]
+![[public/Fichiers/bodyguards.webp]]
 *Leurs gardes du corps qui intimident les badauds*
 
 Les deux nobles décident de prendre à parti le groupe, d'abord en s'en prenant à [[Ivo Hartslieb|Ivo]], puis par manque de réactions ils jettent leur dévolu sur [[Luxarion Draij|Luxarion]], qui monte rapidement dans les tours après s'être fait cracher de l'alcool au visage et insulter à plusieurs reprises. Au moment où il s'apprête à réagir, le spadassin bondit de sa chaise au fond de l'auberge et s'attaque à [[Luxarion Draij|Luxarion]]. Le groupe essayant de défendre leur compagnon, le spadassin sors son épée et décide de frapper pour blesser.
-![[max-ernst.webp]]
+![[public/Fichiers/max-ernst.webp]]
 *Le Spadassin*
 
 [[Luxarion Draij|Luxarion]] est grièvement blessé pendant le combat, mais le groupe finit par s'en sortir en mettant leur agresseur K.O. **Josef** propose ensuite au groupe d'aller passer la nuit sur le **Bérébili**, son bateau avec lequel il leur a proposé plus tôt d'aller à [[Bögenhafen]].
@@ -133,7 +133,7 @@ Les Personnages tentent d'identifier la provenance des carreaux pour déterminer
 - Ils semblent être des érudits au vu de leurs vêtements
 - Ils pourraient correspondre aux silhouettes vues sur la place
 - Les deux hommes ont le même tatouage sur le sein gauche :
-![[purple-hand.webp]]
+![[public/Fichiers/purple-hand.webp]]
 
 ## Barbecue improvisé à Weissbruck
 
@@ -142,7 +142,7 @@ Résumé de session : [[2024-06-19]]
 Les Personnages partent au petit matin, les corps des hommes qui les ont agressés la veille sont toujours au sol, à moitié dévorés par les nombreux charognards qui s'en sont fait un festin durant la nuit. Le bateau quitte rapidement le port : **Josef** ne compte pas rester pour voir si la garde soupçonnera son équipage ...
 
 Le trajet passe tout d'abord par le grand port d'Altdorf : le **Kaiser Reik**
-![[reik.webp]]
+![[public/Fichiers/reik.webp]]
 De nombreux bateaux y sont présents, donc certains immenses navires de la **Marine Impériale** qui, dit-on, n'ont jamais réellement quitté le port. Josef leur raconte l'histoire d'un navire bien reconnaissable en plein centre du port et dont l'équipage ne touche jamais terre : il s'agissait en fait d'une prison sur les eaux dont les prisonniers auraient pris le contrôle lors d'une émeute et que les gardes n'auraient pas réussi à reprendre le navire depuis ...
 Les Personnages voient également l'un des navires les plus impressionnants de l'Empire, actuellement en cours d'entretien dans le port.
 
@@ -156,13 +156,15 @@ En arrivant à **Weissbruck**, les Personnages se rendent compte qu'un individu 
 Les Personnages retournent donc sur le Bérébili pour passer la nuit. [[Luxarion Draij|Luxarion]] fait ainsi une découverte sur [[Ivo Hartslieb|Ivo]] en l'observant à la sortie de la douche (cochonne va ...) : il porte sur le dos le même tatouage que les artisans retrouvés morts sur le quai d'Altdorf ! Cependant, [[Luxarion Draij|Luxarion]] n'ayant pas vu les corps, il n'a jamais vu ce tatouage et ne peut donc pas faire le rapprochement ...
 
 La nuit n'est malheureusement pas aussi sympathique que leur soirée : le **Bérébili** est attaqué ! Le pont inférieur est plongé dans une épaisse fumée blanche qui réveille les Personnages et les force à sortir sur le pont supérieur. Là, ils se rendent compte que le bateau est en flammes ! Ils doivent se défendre contre leurs agresseurs : un groupe de 3 hommes travaillant apparemment sur les docks au quotidien, accompagné de ce qui semble être la silhouette qui les observait à leur arrivée.
-![[adolphus-thugs.webp]]
+![[public/Fichiers/adolphus-thugs.webp]]
 *Les bandits qui ont attaqué le groupe*
 
 Au terme d'un combat éprouvant, les Personnages finissent par échapper à l'embuscade en coupant les amarres du **Bérébili**. Cependant, [[Bill Big Biddle|Bill]] a été grièvement blessé et n'a pu éviter la mort que par miracle avec un coup de pouce du *Destin* ! Un coup dur qui rappelle au groupe que la mort est parfois bien plus proche que ce qu'on pourrait l'espérer, et que c'est un constat valable également pour les Personnages et non uniquement pour leurs ennemis ...
 
 Alors qu'inquiets, ils font route vers [[Bögenhafen]] dans l'espoir de pouvoir enfin toucher l'héritage promis à [[Ivo Hartslieb|Ivo]] (du moins, à son sosie !), ils ont désormais un visage a mettre sur celui qui semble les chasser ...
-![[adolphus-kuftsos.webp]]
+![[public/Fichiers/adolphus-kuftsos.webp]]
+*Le chasseur de primes*
+
 ## Des murmures sur la route
 
 Résumé de session : [[2024-07-03]]
@@ -176,7 +178,9 @@ Vu l'état du bateau, il est impossible pour les Personnages de dormir dans la c
 Le groupe tombe sur un **autel de Taal**, dieu de la nature et des chasseurs. Ces lieux de recueillement sont aussi utilisés dans tout le Reikland par des chasseurs afin de s'y reposer, il semble donc que le groupe soit finalement chanceux et aie fini par trouver un lieu où passer la nuit sans avoir besoin de chercher trop longtemps.
 
 Quelques minutes après leur arrivée, les Personnages entendent un bruit étrange, comme une complainte dont ils ne comprennent pas les mots. Au fil du temps, la complainte se transforme en un appel à l'aide que les Personnages décident d'écouter avant de se rendre compte avec horreur de la source de ce son : un fantôme !
-![[johann-the-ghost.webp]]
+![[public/Fichiers/johann-the-ghost.webp]]
+*Un fantôme bien mal en point ...*
+
 Armés de leur courage et vu l'absence d'agressivité de la créature, les Personnages décident d'écouter ce qu'il a à dire. Le fantôme indique s'appeler **Johann** et être un marchand d'un village proche. Il demande aux Personnages de rassembler ses restes pour l'enterrer dignement dans le jardin de Morr de son village afin de lui offrir le repos éternel qu'il mérite. Ils suivent alors le fantôme jusqu'à une clairière où sont éparpillés ses ossements, partiellement rongés par des animaux. Ils y croisent des Loups qui les attaquent rapidement, défendant leur territoire et leur garde-manger de fortune. Mais fort heureusement, les animaux sont sensibles à la magie et les sorts utilisés par [[Luxarion Draij|Luxarion]] et [[Ivo Hartslieb|Ivo]] font fuir les loups avant que le groupe ne coure un quelconque danger.
 
 Les Personnages arrivent ensuite à regrouper l'intégralité des ossements du pauvre **Johann** et les ramènent dans le **Bérébili**, où ils expliquent la situation à **Josef**. En baroudeur expérimenté, il ne remets pas leur parole en question, quand bien même ils lui ont indiqué avoir décidé d'aider un fantôme qui était perdu dans les forêts du Reikland ... On raconte des histoires bien pires que celles-ci, et les eaux sont de toute façon bien plus dangereuses que les morts ...
@@ -192,6 +196,8 @@ Cette courte aventure leur a pris une grosse demi journée, ce qui n'a pas trop 
 Notes de session : [[2024-08-08]]
 
 En arrivant à [[Bögenhafen]], le groupe fait directement route vers la **Schaffenfest**, évènement incontournable du Reikland. [[Luxarion Draij|Luxarion]] explique qu'il préfère éviter de se déplacer dans un évènement pareil avec une grosse quantité de richesses sur lui et qu'il préfèrerait attendre avant d'aller chez le cabinet notarial pour toucher la fortune nouvellement acquise d'[[Ivo Hartslieb|Ivo]]. Tout le monde accepte l'idée et se dirige donc à la foire.
+![[schaffenfest.webp]]
+*La Schaffenfest*
 
 Chacun a ses aspirations :
 - [[Luxarion Draij|Luxarion]] aimerait vendre les pierres précieuses afin d'avoir des Couronnes sonnantes et trébuchantes pour pouvoir en faire ce qu'il veut et faire les achats qu'il souhaite
@@ -205,7 +211,11 @@ Déçu par ce refus, [[Bill Big Biddle|Bill]] décida donc de se mettre en quêt
 Les Personnages décident donc d'entrer dans la tente pour se faire prédire leur avenir, et ils ne sont pas déçus ! Chacun reçoit une prédiction :
 - [[Luxarion Draij|Luxarion]] se voit répéter sa Destinée prédite par les Augurs, formulée devant tous ses compagnons : ***Prends garde à tes désirs, ils te mèneront à ta perte***
 - [[Ivo Hartslieb|Ivo]] reçoit une information bien plus cryptique : ***Prend garde à ta chanson, car elle est annonciatrice de grand malheur***. Alors qu'il demandai plusieurs fois de répéter parce qu'il ne comprenait pas où la voyante voulait en venir, elle lui ria au nez lui répondant que *Pour quelqu'un qui travaille en sifflant, je vous trouve bien dur d'oreille mon cher*.
-- [[Bill Big Biddle|Bill]] n'eût pas tout à fait la prédiction qu'il espérait : n'ayant pas de destinée tracée à sa naissance de par le fait qu'il était un Halfeling, la voyante lui expliqua qu'elle pouvait tenter de voir son avenir mais qu'il serait bien plus flou que celui de ces compagnons. La phrase qu'elle lui déclama fût la suivante : ***Je vois sept hommes, et j'en vois deux. L'un des deux détruira les autres, et bien plus encore***.
+- [[Bill Big Biddle|Bill]] n'eût pas tout à fait la prédiction qu'il espérait : n'ayant pas de destinée tracée à sa naissance de par le fait qu'il était un Halfeling, la voyante lui expliqua qu'elle pouvait tenter de voir son avenir mais qu'il serait bien plus flou que celui de ces compagnons. Elle parviens cependant à une prédiction : ***Marcher dans l'ombre t'amènera à la ruine***
+- Alors que le groupe s'apprêtait à quitter la tente, la voyante sembla être frappée d'une révélation. Elle s'adresse cette fois au groupe complet avec un message de mauvais augure : ***Je vois sept hommes, et j'en vois deux. L'un des deux détruira les autres, et bien plus encore***.
+
+![[megret-see.webp]]
+*La mystique réalise une prédiction*
 
 Comme toujours, les prédictions des voyantes sont sujettes à interprétation et souvent cryptiques. Reste néanmoins que le groupe semble satisfait des informations qui leur ont été fournies. Ils paient donc pour la prédiction, puis décident de partir pour le cabinet de notaire avant sa fermeture à la suggestion de [[Bill Big Biddle|Bill]], qui explique à [[Luxarion Draij|Luxarion]] que l'argent qui viens avec la propriété sera probablement sous forme d'avoirs et non de pièces et qu'il ne sera donc pas plus risqué de voyager dans la **Schaffenfest** après être devenus riches. Du moins, après qu'[[Ivo Hartslieb|Ivo]] soit devenu riches et [[Bill Big Biddle|Bill]] son assistant officiel et salarié ...
 
@@ -220,7 +230,7 @@ Quelques secondes après qu'il soit sorti de la pièce, les Personnage entendent
 Dans la panique et l'incompréhension, le groupe se demande quoi faire lorsqu'ils entendent soudain des bruits d'une lutte violente provenant de l'endroit où avait disparu l'assistant quelques minutes plus tôt. Très rapidement, ils entendent des hurlements de souffrance qui semblent provenir de la même voix que précédemment, l'assurance en moins ... Ainsi que les sons répugnants caractéristiques de la chair qui se déchire. Au bout de quelques secondes, un silence de mort se fait dans la pièce ...
 
 C'est précisément à ce moment qu'[[Ivo Hartslieb|Ivo]] se mets à hurler de douleur, dans l'incompréhension générale. Il se recroqueville, se tenant les mains sur les oreilles, hurlant à l'aide pour que quelqu'un fasse stopper la douleur. Un son se fait ensuite entendre, qui semble provenir de partout et nulle par à la fois, comme s'il était inscrit directement dans l'esprit des Personnages pour qu'il puisse défier les lois de la physique ...
-![[Sifflement.mp3]]
+![[public/Fichiers/Sifflement.mp3]]
 
 Puis, tout s'arrêta aussi soudainement qu'il avait commencé. Le son s'était évanoui, la douleur avait disparu comme si elle n'avait jamais existé, et [[Ivo Hartslieb|Ivo]] semblait perturbé, comme changé. Le groupe décida qu'il était plus que temps de sortir de cet endroit maudit et défonça la porte arrière avec l'aide du marteau *Fleur de Fer* d'[[Ivo Hartslieb|Ivo]] et pu constater de leurs yeux toute l'horreur de la scène dont ils avaient été de simples témoins auriculaire.
 
@@ -230,3 +240,52 @@ Le groupe fouille tout de même le cadavre à la recherche d'informations et tro
 ![[La Lettre 1.png]]
 
 N'ayant pas d'informations supplémentaires sur le mystérieux **Q.F.** ayant signé la lettre, ils décident de laisser le cadavre sur place sans prévenir les gardes, qui pourraient être suspicieux. Ils repartent donc vers la **Schaffenfest** avec la ferme intention de retrouver **Josef** pour qu'il les accompagne pour la nuit dans l'une des auberges dont il a le secret.
+
+## La Schaffenfest
+
+Résumés de session : 
+[[2024-10-02]] - La visite du festival
+[[2024-10-16]] - La zoocopée du Doktor Malthusius
+
+Suite aux évènements traumatiques dont ils ont été témoins (et acteurs !) dans la journée, le groupe décida d'aller se reposer dans une auberge pour passer la nuit avant d'aller explorer un peu plus la Schaffenfest. Ils se dirigent donc vers **L'auberge de la fin du voyage**, sur les conseils avisés de leur ami **Josef**. Ce dernier leur indique qu'il passera la nuit sur son bateau afin d'économiser un peu d'argent, mais qu'il ne peut pas se permettre de leur offrir le couchage à cause des nombreux contrôles effectués sur les docks.
+![[journeys-end.webp]]
+Le lendemain, le groupe se rends à la **Schaffenfest** pour en explorer les moindres recoins.
+
+Tout comme pour l'auberge, **Josef** a prodigué de sages conseils aux aventuriers afin de leur permettre de connaître les points clés de l'évènement. Il leur mentionne notamment les différents **marchés** où il est possible de trouver des produits venant de tout l'Empire et même au delà, y compris des bien normalement rarissimes vendus par des marchands venus de contrées lointaines. Le **marché aux bestiaux** est le théâtre d'un *concours de la plus belle bête*, qui est apparemment organisé chaque année et qui bats déjà son plein depuis l'arrivée des Personnages. **Josef** mentionne également **les Lices**, où un tournoi de chevaliers est organisé et où sont rassemblés beaucoup de membres de la noblesse ainsi que des chevaliers de l'Empire et des pays voisins
+![[lists.webp]]
+
+Le groupe ne pouvant pas visiter l'intégralité du festival dans la même journée porte son choix sur deux des lieux majeurs : 
+- le **Tribunal des fêtes**, déjà visité la veille, dont le **pilori** est l'une des attractions principales de la **Schaffenfest**.
+- La **Zoocopée**, située le long des remparts de **Bögenhafen**, où un homme présente des animaux très rares
+
+La première destination du groupe est le **Pilori**, qu'ils atteignent au petit matin. A ce moment de la journée, ce dernier est encore vide. [[Bill Big Biddle|Bill]] fait étalage de la curiosité légendaire des Halfelins en pensant profiter du fait qu'aucun condamné n'est présent pour examiner le pilori de plus près. Mais c'était sans compter sur la garde, présente depuis le début, qui voit d'un très mauvais œil l'insistance toute particulière de [[Bill Big Biddle|Bill]] lors de son examen du mécanisme de verrouillage, y voyant une tentative d'apprendre à le forcer "en cas de besoin". Il est instantanément arrêté pour "*tentative de sabotage*". [[Ivo Hartslieb|Ivo]], y voyant une injustice qui lui paraît flagrante, décide d'essayer de faire de son mieux pour aider son compagnon de voyage ... Ce qui en fait un dommage collatéral, puisqu'il se retrouve arrêté en tant que complice ! Comme à son habitude, [[Luxarion Draij|Luxarion]] se fait discret, ce qui lui sauve la mise (en examen ...) et lui permets d'assister au procès en tant que témoin, et donc d'entrer dans le **tribunal des fêtes** dont l'accès leur avait été refusé la veille ...
+
+Alors qu'ils entrent dans le tribunal dans l'attente de leur jugement, le groupe est témoin d'un procès pour le moins expéditif, d'un Nain visiblement très éméché, condamné pour *trouble à l'ordre public*. Le verdict tombe : **2 pistoles d'argent**. Le Nain, étant dans l'incapacité de payer, est condamné au pilori afin de purger sa peine
+![[public/Fichiers/gottri-gurnisson.webp]]
+*Le Nain ivrogne de la Schaffenfest*
+
+Le groupe a ensuite affaire au **Juge Richter**. Le juge, d'abord bienveillant, prends rapidement la mouche après s'être fait insulter par [[Bill Big Biddle|Bill]]. En effet, ce dernier insinue que le juge n'est pas objectif et qu'il s'en prends à lui simplement parce qu'il est un Halfelin, il serait donc non seulement raciste, mais également incompétent en tant que représentant de la loi ! [[Ivo Hartslieb|Ivo]] ayant été présenté comme complice dans cette affaire se retrouve également impacté par le comportement de son compagnon. Fort heureusement pour lui, [[Luxarion Draij|Luxarion]] interviens afin de désamorcer la situation, expliquant au juge qu'il s'agit d'une malheureuse erreur et que ses compagnons de voyage n'ont en aucun cas voulu l'insulter.
+![[public/Fichiers/heinz-richter.webp]]
+*Heinz Richter, le juge de la Schaffenfest*
+
+[[Ivo Hartslieb|Ivo]] confirme la méprise et s'excuse pour le comportement de son compagnon, mais [[Bill Big Biddle|Bill]] n'en démords pas et campe sur ses positions : le Juge n'est pas objectif parce qu'il a affaire à un Halfelin ... [[Luxarion Draij|Luxarion]] n'est pas inquiété par l'affaire, tandis que [[Ivo Hartslieb|Ivo]] s'en sort par chance avec un simple avertissement. [[Bill Big Biddle|Bill]], en revanche, se voit condamné à une amende de **20 pistoles d'argent** pour *tentative de sabotage d'équipement de détention* ainsi que pour *outrage à magistrat*. Sachant pertinemment qu'un refus de paiement l'amènerait à passer une journée entière au pilori, [[Bill Big Biddle|Bill]] se sépare (non sans mal) d'une véritable petite fortune.
+
+Suite à leur procès, les personnages s'arrêtent au **pilori** qui se situe à l'extérieur, assistant à une triste scène néanmoins classique dans l'Empire : les plaignants bombardent le Nain de fruits pourris, au plus grand bonheur des passants qui adorent voir la justice à l'oeuvre.
+![[gottri-gurnisson2.webp]]
+*Triste scène pour le Nain*
+
+[[Luxarion Draij|Luxarion]] n'appréciant pas la cruauté des passants décide de prendre les choses en main : il fauche les deux personnes lançant le plus de projectiles à l'aide de son bâton, provoquant ainsi un mouvement de foule et la fuite de la majorité des passants. Il décide ensuite de payer l'amende de ce pauvre hère afin de le libérer de cette humiliation. Le Nain se présente au groupe sous le nom de **Gottri Gurnisson**, un vagabond ayant tout perdu dans de tragiques circonstances.
+
+Les Personnages décident alors de se rendre au marché dans l'espoir d'y trouver un endroit où manger. **Gottri** refuse de les lâcher d'une semelle, attirant beaucoup d'attention sur eux, mais ce dernier insiste pour leur indiquer un endroit où boire "*la meilleure bière de la Schaffenfest, vous verrez !*" pour les remercier d'avoir permis sa libération. Le groupe est interrompu dans leur exploration par la chute de [[Bill Big Biddle|Bill]], mis au sol par une mystérieuse silhouette que le reste du groupe n'a pas pu apercevoir. Ce dernier se relève avec difficulté et est surpris par une lame de poignard appuyée dans son dos ... Une voix qu'il ne connaît pas le menace, lui réclamant un dû dont il ne connaît pas l'existence en l'appelant par un nom qu'il ne connaît pas : **Marchombre**. Seul [[Luxarion Draij|Luxarion]] voit la silhouette alors qu'elle s'enfuit à travers la foule, s'y dissimulant de manière experte ... Ils savent qu'ils ont affaire à un professionnel qui a sû se rendre inidentifiable pour son agression ...
+
+**Gottri** accompagnant toujours le groupe contre leur gré, ces derniers se voient refuser l'accès à la plupart des commerces servant à boire ou à manger. Non seulement il a été jugé coupable, mais l'odeur d'alcool frelaté qu'il véhicule est tout bonnement infernale et leur ferait perdre des clients. Le groupe croise alors **Josef** qui leur explique d'être indulgent envers ce pauvre Nain qui a une histoire tragique. Il leur conseille de lui payer une bière afin qu'il les laisse tranquille. Bien que le groupe soit tenter de refuser pour ne pas *inciter au vice*, **Gottri** est un tel problème pour leurs affaires qu'ils finissent par abdiquer. Le Nain les remercie abondamment, au point d'en devenir pénible, mais deviens bien plu renfermé après quelques gorgées, si bien que le groupe semble penser qu'il porte à lui seul toute la misère du monde. Ils lui demandent alors son histoire ...
+
+**Gottri Gundrisson** n'a pas toujours été un vagabond, ni même un ivrogne notoire d'ailleurs. Il fût jadis un ingénieur renommé, un génie dans son art et un des maîtres de la prestigieuse ***Guilde des ingénieurs Nains*** bien connue de l'Empire pour ses engins d'une efficacité redoutable sur les champs de bataille. Alors qu'il était au sommet de son art, il travaillait dans son atelier sur l'une des machines les plus complexes que son Karak n'aie jamais vue. En plus de la renommée qu'elle aurait apporté à Gottri et à son clan, elle aurait pu permettre un bond technologique non négligeable qui aurait permis à ses semblables de se rendre indispensables, ainsi qu'à son clan de s'enrichir substantiellement. Mais lors d'une journée fatidique, un terrible accident survint lors de l'allumage de la machine pour son premier test. **Gottri**, parti chercher du matériel pour la suite des tests, n'était pas présent dans la pièce lorsque la machine fût mise en marche par ses collègues et ses apprentis. On raconte qu'un bruit assourdissant a commencé, signe d'un emballement de la machine, quelques secondes avant son explosion. Cette dernière a été d'une telle violence que toutes les personnes présentes dans la pièce sont mortes pulvérisées, si bien que l'immense majorité des cadavres en étaient devenu impossibles à identifier. Depuis ce jour, **Gottri** est banni de la *Guilde des ingénieurs* et de tout métier s'en approchant de près ou de loin. Ne s'étant jamais pardonné de cette erreur de conception, **Gottri** s'est enfermé dans sa solitude, trouvant du réconfort uniquement dans l'alcool qui lui permets d'oublier momentanément les conséquences dramatiques d'un accident dont il se sent responsable depuis lors.
+
+**Gottri** laisse finalement le groupe tranquille après avoir eu sa bière, les remerciant d'avoir bien voulu écouter son histoire tragique. Suite à cette rencontre, le groupe décide de chercher de quoi manger afin de se remonter le moral avant d'aller en direction de la **Zoocopée**. Ils y sont accueillis par un autre Nain se présentant sous le nom de **Grunni** qui leur indique que le spectacle n'est pas encore prêt et qu'ils devront revenir plus tard. Il propose à [[Luxarion Draij|Luxarion]] et [[Ivo Hartslieb|Ivo]] un travail consistant à parcourir le champ de foire en tenant un panneau publicitaire, leur promettant de les payer **1 pistole** s'ils portent la pancarte pendant toute la journée. [[Bill Big Biddle|Bill]] n'est pas sollicité pour ce petit boulot, étant lui même trop petit pour que la pancarte soit visible par la plupart des passants ...
+
+De dépit, le groupe se rends à nouveau au marché pour l'explorer un peu plus sans la compagnie du Nain. Ils y font la rencontre d'**Elvyra Kleinestun**, une apothicaire vendant des herbes aux vertus médicinales ainsi que des ingrédients alchimiques. [[Ivo Hartslieb|Ivo]] s'attarde sur son échoppe, intéressé notamment par ses produits alchimiques. Elle lui propose alors de prendre un peu plus de temps pour lui apprendre les rudiments de l'alchimie et de l'identification des herbes une fois la **Schaffenfest** terminée et lui propose de venir la consulter dans son échoppe à **Weissbruck**.
+![[public/Fichiers/elvyra-kleinestun.webp]]
+***Elvyra Kleinestun**, apothicaire*
+
+Tandis qu'ils continuaient à faire le tour des nombreuses échoppes, un marchand Halfling se mit à alpaguer leur groupe en criant un mot étrange à répétition : " DOULAÏ ! DOULAÏ ! Quel plaisir de te revoir !". Le marchand se présenta au groupe sous le nom de **Tobias 'Toby' Brassepot**, un vieil ami de leur compagnon Halfelin, qu'il désigne par le nom de **Stefan 'Doulaï' Biddle**. Après cette interaction plutôt étrange, [[Bill Big Biddle|Bill]] explique à ses compagnons que le marchand l'a visiblement confondu avec son père, ce qui est étrange puisqu'il est porté disparu depuis de nombreuses années. Apparemment, **Toby** aurait entendu des rumeurs indiquant de **Doulaï** était présent à la Schaffenfest ! Avant que le groupe ne puisse discuter de cette affaire plus en détail, ils entendirent le gérant de la **zoocopée** alpaguer la foule : le spectacle pouvait enfin commencer ...

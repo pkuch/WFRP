@@ -1,0 +1,32 @@
+![[Pasted image 20251121193530.png]]
+*Le Moot*
+
+# Les clans Halflings dans le Reikland
+
+> *Et donc, Mercy Lowhaven lève les yeux sur ce grand gaillard, lui fait un grand sourire, et dit "Si tu penses que la vengeance de Rumster est terrible, attends de voir la mienne !". ça lui a fait fermer son clapet, j'vous le dit !*
+> Edacious "Ed" Brambledown, Raconteur Halfelin
+
+Créatures grégaires et communautaires, les Halfelins se trouvent partout à travers le Reikland. Ils se sont creusé une place dans les villages, villes et cités impériales, s'intégrant parmi leurs voisins humains, qu'ils appellent souvent "les grands". Les Halfelins apprécient particulièrement l'intimité et ils ont une considération limitée pour l'espace personnel ou le concept de propriété. Ainsi, ils vivent les uns sur les autres, partageant leur lit avec plusieurs de leurs amis ou membres de la famille, entassés d'une manière aussi réconfortante pour eux qu'elle est étrange pour les Reiklanders.
+
+Les Halflings vivent dans tous les coins du Reikland. La plus grande densité de population Halfeline se trouve dans le quartier Haffenstadt d'Altdorf, où plusieurs milliers d'entre eux vivent ensemble, épaule contre épaule dans l'Est de la capitale. La quasi-totalité de ces Halfelins font partie d'une des quelques familles, appelées "clans", qui ont migré du Moot dans cette zone. Partout où ils se trouvent, les Halfelins ont un attrait et un talent naturel pour la préparation, présentation et consommation de nourriture de toute sorte. Ils jouissent ainsi de la réputation d'être d'excellent cuisiniers, et ils sont très recherchés en tant que chefs pour les maisons nobles de l'Empire, les tavernes, et mêmes les armées. En effet, même Lupin Croop, le plus célèbre tacticien et soldat Halfelin, était régulièrement demandé pour préparer des repas - ce qui agaçait prodigieusement le petit commandant, malgré le fait qu'on dit qu'il a préparé un ragoût de sanglier si exceptionnel qu'un seul bol aurait évité une guerre mineure.
+
+De par leur nature très affectueuse, et la grande proximité pour tant de partenaires potentiels, il ne semble que peu surprenant de savoir que le taux de natalité chez les Halfelin est aussi haut. Les Halfelins préfère une succession matrilinéaire, recensant leurs ancêtres à travers leurs mères (*"La seule façon d'être sûr, n'est-ce pas !"*).
+
+Cela veut dire que si un enfant Halfelin est le fruit de l'union de différents clans, il sera de la famille de la mère. Les Halfelins sont très fiers de leur héritage, et la plupart des Halfelins du Reikland peuvent retracer leur héritage jusqu'à une ou plusieurs des plus grandes familles du Reikland. L'**Haffenlyver**, le grand registre généalogique des Clans Halfelins, est tenu par le Doyen du Moot, qui fait également office de juge sur toutes les disputes ayant trait au lignage et à l'héritage.
+
+Pour ces raisons, les clans représentent la structure sociale dominante de la société Halfeline. Le proverbe Reiklander *"Il faut un village pour élever un enfant"* est fortement contredit par les Halfelins: ils prétendent qu'il faut un clan. Bien que les Halfelins savent presque toujours qui est leur mère, ils ne possèdent pas tous l'envie, ou la capacité, d'être parents. Ainsi, la responsabilité d'élever les enfants est portée par le clan entier, plutôt qu'un seul individu. L'éducation ainsi que les soins pour les enfants sont assurés de manière commune, avec les doyens locaux du clan agissant en tant que parents *de facto*, dispensant sagesse et discipline en commune mesure. Cet apprentissage social instille dans les jeunes Halfelins les valeurs et traditions du clan, faisant que chaque Clan Halfelin possède un caractère bien particulier, et beaucoup d'entre eux ont une profession et un rôle prédisposé.
+
+La polygamie des Halfelins, et leur tendance à utiliser de manière très vague les termes de "mère", "père" ou encore "cousins" n'est que peu comprise par les Humains du Reikland. Bien que ce type de relation n'est que peu accepté par les principes de moralité du culte de Sigmar, la majorité des enfants Halfelins grandissent heureux, stables et aimés.
+
+En revanche, la nature peu conventionnelle des groupements familiaux Halfelins, en plus de leur nature peu regardante sur les propriétés personnelles, est source d'une grande méfiance de la part de beaucoup d'Humains envers les Halfelins au travers de l'Empire. Heureusement, ce type de préjugés est beaucoup moins présent dans les régions "illuminées" du Reikland que dans les grandes régions proches du Moot.
+
+# L'histoire du Moot
+
+> *Les terres sont magnifiques et verdoyantes, et ses habitants sont chaleureux et accueillants. C'est extrêmement suspect, vous ne trouvez pas ?*
+> *-* Andulla Sorgewarze, Chasseuse de sorcière de l'Averland
+
+Les Halfelins croient en l'Histoire, mais pas de la même façon que les humains. Leurs histoires ne sont pas écrites dans des livres, ou pire, gravée dans la roche comme pour les Nains. La leur, selon eux, est une histoire de lignée. De famille. Un halfelin est bien plus susceptible de savoir ce que leur arrière arrière second cousin au 3ème degré faisait durant la fête de leur grand-tante (et qui a dû nettoyer les dégâts) que de savoir l'année exacte à laquelle un roi précis a combattu un certain combat pour un drôle de drapeau coloré. Ceci étant, ils retiennent certaines dates - Et le Halfelins utiliseront n'importe quelle excuse pour organiser une fête, un festival ou un évènement.
+
+## L'arrivée des Halfelins dans le monde
+
+L'histoire Halfeline mentionne de manière très précise leur arrivée dans le vieux monde depuis les terres de l'Est: un Bezahltag, pile à l'heure pour le thé matinal. Les érudits en ont trouvé des preuves datant du second siècle du calendrier impérial. Certains Halfelins prétendent avoir des ancêtres qui ont rencontré Sigmar et lui ont serré la main - mais cela paraît peu probable. Il y a eu plusieurs vagues de migration durant lesquelles les Halfelins ont établi des petits camps le long de la Frontière Princes, avant de passer quelques siècles avec un mode de vie semi-nomade, se déplaçant à travers la Tilée, l'Estalie et la Brétonnie avant que la plupart d'entre eux ne s'installent dans l'Empire. Ils y sont plutôt heureux depuis, mais les Halfelins n'ont que très peu de considération pour la routine. Il se pourrait qu'ils finissent par voyager dans le monde.

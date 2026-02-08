@@ -14,4 +14,4 @@ Il s’agit d’un **Projectile magique** affectant tout ce qui se trouve dans l
 
 Si les cibles meurent pendant que le Sort est actif, elles sont enfermées de façon permanente dans une carapace de métaux communs, un macabre rappel des risques de la sorcellerie.
 
-![[magic-slap.webp]]
+![[public/Fichiers/magic-slap.webp]]

@@ -16,7 +16,7 @@ Origines disponibles : Humain
 
 
 
-![[shadow-wizard.webp]]
+![[public/Fichiers/shadow-wizard.webp]]
 #### Schéma de progression
 
 | **CC** | **CT** | **F** | **E** | **I** | **Ag** | **Dex** | **Int** | **FM** | **Soc** |

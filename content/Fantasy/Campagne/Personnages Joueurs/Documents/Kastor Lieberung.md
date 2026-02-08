@@ -1,5 +1,5 @@
 ## Lettre d'héritage
-![[L'Héritage.png]]
+![[public/Fichiers/L'Héritage.png]]
 
 ## Affidavit
-![[L'affidavit.png]]
+![[public/Fichiers/L'affidavit.png]]

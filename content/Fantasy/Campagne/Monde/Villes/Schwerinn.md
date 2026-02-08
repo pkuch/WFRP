@@ -1,7 +1,7 @@
 ![[Pasted image 20240703211906.png]]
 
 
-![[Schwerinn.jpg]]
+![[public/Fichiers/Schwerinn.jpg]]
 
 ## Histoire de la ville
 

@@ -18,12 +18,14 @@ Pour commencer, la section [[Les vents]] permets aux joueurs de se familiariser 
 --------------------------
 
 Récapitulatif de la dernière session :
-[[2025-11-06|Dernière session]]
+[[2026-02-05|Dernière session]]
 
 Index des récap des sessions précédentes :
 [[0 - Index des récap|Notes de session]]
 
-[[The Road So Far]]
+[[The Road So Far]] (mis à jour avec le début de la Schaffenfest)
 
 Dernier ajout :
-[[Les Nains]]
+Résumés des sessions par les joueurs
+MàJ "The Road So Far"
+Ajout d'informations sur [[Les Halfelins]]

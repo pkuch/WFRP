@@ -1,5 +1,5 @@
 
-![[bogenhafen.webp]]
+![[public/Fichiers/bogenhafen.webp]]
 *L'emblème de **Bögenhafen**, plaque tournante du commerce située au Sud du Reikland
 
 ### Guide du visiteur
@@ -18,23 +18,23 @@ Pourtant, ceux qui ont de la volonté et un manque de scrupule adéquat ont fait
 Tout le Reikland connaît les maisons marchandes principales de Bögenhafen, symboles de richesse dans tout l'Empire. On note 4 maisons marchandes principales qui dirigent non seulement la ville, mais aussi tout le négoce à l'échelle de l'Empire lui même. Ces maisons marchandes possèdent chacune une luxueuse résidence familiale dans l'**Adel Ring**, le quartier noble de Bögenhafen, ainsi que des bureaux situés ailleurs dans la ville.
 
 #### La famille [[Haagen]]
-![[haagen.webp]]
+![[public/Fichiers/haagen.webp]]
 Originaires du Wasteland, la famille **Haagen** dispose de puissants contacts commerciaux dans la ville de **Marienburg**. Ils sont les principaux revendeurs de biens de luxe dans Bögenhafen. Le chef de famille se nomme **Jochen Haagen**. La majorité de leur commerce se faisant par voie fluviale, ils sont naturellement étroitement liés à la *Guilde des Débardeurs*, et ils disposent également d'une petite flotte de barges à voiles qu'ils entretiennent.
 Ils sont notamment propriétaires d'un appontement, de cinq entrepôts attenants et d'une suite de bureaux dans la Bergstrasse.
 
 
 #### La famille [[Ruggbroder]]
-![[ruggbroder.webp]]
+![[public/Fichiers/ruggbroder.webp]]
 La famille **Ruggbroder** vends principalement des céréales ainsi que d'autres produits agricoles, qu'ils négocient à Bögenhafen en échange d'articles et de produits métalliques produits au sein même de la ville. Leur chef de famille est **Heironymus Ruggbroder**, qui dirige la famille de main de maître malgré son âge avancé (il a dépassé les 70 ans !). Ils jouissaient d'un quasi-monopole sur le commerce avec **Helmgart** ainsi que la **Bretonnie**, mais ils sont depuis peu en concurrence avec les **Teugen**.
 
 Ils possèdent plusieurs entrepôts le long de l'Ostendamm, mais ils ne se concentrent pas sur le transport fluvial. à la place, ils utilisent les équipages de leurs fournisseurs ou de petits opérateurs indépendants. Ils ont un lien privilégié avec la *Guilde des Conducteurs*, principaux employeurs de charretiers et de muliers de Bögenhafen. En tant que famille de marchands plus petite que les 3 autres, elle entretient également des liens plus étroits avec les petits commerçants de la ville.
 
 #### La Famille [[Steinhäger]]
-![[steinhager.webp]]
+![[public/Fichiers/steinhager.webp]]
 Connus pour les relations qu'ils entretiennent avec des contacts Nains et miniers, la famille **Steinhäger** concentre ses activités autour des marchandises en provenance d'**Altdorf, Nuln et Marienburg** et à destination des communautés situées le long des Montagnes Grises. Ils échangent principalement leurs biens contre de la fourrure, des métaux et d'autres produits de ces communautés. **Franz Steinhäger** en est le chef de famille, et il est assisté par son frère **Heinrich**. Ils sont propriétaires d'un quai et de plusieurs entrepôts, ainsi que de bureaux situés à proximité de ceux de la famille **Teugen**, non loin de la Guilde des Marchands.
 
 #### La Famille [[Teugen]]
-![[teugen.webp]]
+![[public/Fichiers/teugen.webp]]
 La famille **Teugen** est l'une des plus ancienne famille de Bögenhafen et est, *de-facto*, la noblesse de la ville (bien qu'elle ne détienne aucun titre de noblesse officiel). Elle entretient de bonnes relations avec les autres familles nobles du Reikland, leur donnant la même influence et le même pouvoir que n'importe quelle famille noble. Ils possèdent des quais sur les deux rives du fleuve, ainsi que de nombreux entrepôts le long de l'Ostendamm et du Westendamm. Un grand nombre de leurs bureaux donne sur une petite place située derrière la *Guilde des Marchands*.
 
 Plus récemment dans l'histoire du Reikland, il est de notoriété publique que la famille **Teugen** a subi des pertes tragiques (surtout sur les 20 dernières années). Depuis peu, c'est **Johannes Teugen** qui a repris des rênes de la famille après la mort de son frère aîné **Karl**, permettant à sa maison un retour spectaculaire jusqu'à sa gloire passée.
